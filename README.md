@@ -5,3 +5,17 @@
 2.行百里者半九十，黎明前的也最为黑暗。
 3.果然每一个程序员做的第一个游戏都是打飞机！！！
 
+食用方式：
+1.下载“阿能打飞机”文件夹
+2.点开“阿能打飞机.exe”即可进行游戏。
+
+本游戏所有素材均来自网络，严禁用于商业用途。
+
+How to play:
+
+1. Download the "阿能打飞机" folder
+
+2. Click on "阿能打飞机.exe" to play the game.
+
+
+All materials of this game are from the network, strictly prohibited for commercial purposes.
